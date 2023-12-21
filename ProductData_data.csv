@@ -1,0 +1,51 @@
+Product_ID,Product_Name,Category,Price
+1,Laptop,Electronics,423
+2,Smartphone,Electronics,174
+3,Headphones,Electronics,406
+4,Camera,Electronics,248
+5,Television,Electronics,22
+6,T-Shirt,Clothing,95
+7,Jeans,Clothing,317
+8,Sneakers,Clothing,179
+9,Dress,Clothing,499
+10,Jacket,Clothing,95
+11,Book,Books,180
+12,E-reader,Books,156
+13,Notebook,Books,32
+14,Pen,Books,28
+15,Art Supplies,Books,160
+16,Refrigerator,Home Appliances,362
+17,Microwave,Home Appliances,109
+18,Blender,Home Appliances,114
+19,Coffee Maker,Home Appliances,499
+20,Toaster,Home Appliances,484
+21,Running Shoes,Clothing,295
+22,Backpack,Clothing,428
+23,Guitar,Electronics,292
+24,Fitness Tracker,Electronics,284
+25,Desk Chair,Home Appliances,231
+26,Watch,Accessories,297
+27,Sunglasses,Accessories,68
+28,Water Bottle,Accessories,178
+29,Yoga Mat,Accessories,281
+30,Plant,Accessories,375
+31,Handbag,Accessories,439
+32,Wallet,Accessories,148
+33,Sweater,Clothing,345
+34,Watch,Accessories,48
+35,Umbrella,Accessories,211
+36,Vacuum Cleaner,Home Appliances,378
+37,Air Purifier,Home Appliances,234
+38,Bed Sheets,Home,382
+39,Pillow,Home,29
+40,Curtains,Home,204
+41,Printed Books,Books,418
+42,Cookware Set,Home Appliances,291
+43,Dumbbells,Fitness,334
+44,Candles,Home,116
+45,Wall Clock,Home,116
+46,Sculpture,Art,16
+47,Cushions,Home,260
+48,Hiking Boots,Clothing,483
+49,Camping Tent,Camping,131
+50,Sleeping Bag,Camping,23

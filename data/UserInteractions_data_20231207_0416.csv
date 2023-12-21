@@ -1,0 +1,101 @@
+Interaction_ID,Timestamp,User_ID,Interaction_Type,Product_ID,Product_Name
+2801,2023-12-07 04:16:14.856651,1,product_view,18,Blender
+2802,2023-12-07 04:16:14.856651,2,product_view,2,Smartphone
+2803,2023-12-07 04:16:14.856651,3,product_view,1,Laptop
+2804,2023-12-07 04:16:14.856651,4,product_view,36,Vacuum Cleaner
+2805,2023-12-07 04:16:14.856651,5,product_view,8,Sneakers
+2806,2023-12-07 04:16:14.856651,6,product_view,34,Watch
+2807,2023-12-07 04:16:14.856651,7,product_view,48,Hiking Boots
+2808,2023-12-07 04:16:14.856651,8,product_view,6,T-Shirt
+2809,2023-12-07 04:16:14.856651,9,product_view,45,Wall Clock
+2810,2023-12-07 04:16:14.856651,10,product_view,1,Laptop
+2811,2023-12-07 04:16:14.856651,11,product_view,49,Camping Tent
+2812,2023-12-07 04:16:14.856651,12,product_view,28,Water Bottle
+2813,2023-12-07 04:16:14.856651,13,product_view,42,Cookware Set
+2814,2023-12-07 04:16:14.856651,14,product_view,45,Wall Clock
+2815,2023-12-07 04:16:14.856651,15,product_view,16,Refrigerator
+2816,2023-12-07 04:16:14.856651,16,product_view,31,Handbag
+2817,2023-12-07 04:16:14.856651,17,product_view,2,Smartphone
+2818,2023-12-07 04:16:14.856651,18,product_view,40,Curtains
+2819,2023-12-07 04:16:14.856651,19,product_view,29,Yoga Mat
+2820,2023-12-07 04:16:14.856651,20,product_view,6,T-Shirt
+2821,2023-12-07 04:16:14.856651,21,product_view,35,Umbrella
+2822,2023-12-07 04:16:14.856651,22,product_view,50,Sleeping Bag
+2823,2023-12-07 04:16:14.856651,23,product_view,15,Art Supplies
+2824,2023-12-07 04:16:14.856651,24,product_view,28,Water Bottle
+2825,2023-12-07 04:16:14.856651,25,product_view,48,Hiking Boots
+2826,2023-12-07 04:16:14.856651,26,product_view,3,Headphones
+2827,2023-12-07 04:16:14.856651,27,product_view,47,Cushions
+2828,2023-12-07 04:16:14.856651,28,product_view,18,Blender
+2829,2023-12-07 04:16:14.856651,29,product_view,15,Art Supplies
+2830,2023-12-07 04:16:14.856651,30,product_view,30,Plant
+2831,2023-12-07 04:16:14.856651,31,product_view,5,Television
+2832,2023-12-07 04:16:14.856651,32,product_view,35,Umbrella
+2833,2023-12-07 04:16:14.856651,33,product_view,2,Smartphone
+2834,2023-12-07 04:16:14.856651,34,product_view,49,Camping Tent
+2835,2023-12-07 04:16:14.856651,35,product_view,17,Microwave
+2836,2023-12-07 04:16:14.856651,36,product_view,31,Handbag
+2837,2023-12-07 04:16:14.856651,37,product_view,2,Smartphone
+2838,2023-12-07 04:16:14.856651,38,product_view,10,Jacket
+2839,2023-12-07 04:16:14.856651,39,product_view,1,Laptop
+2840,2023-12-07 04:16:14.856651,40,product_view,24,Fitness Tracker
+2841,2023-12-07 04:16:14.856651,41,product_view,7,Jeans
+2842,2023-12-07 04:16:14.856651,42,product_view,41,Printed Books
+2843,2023-12-07 04:16:14.856651,43,product_view,25,Desk Chair
+2844,2023-12-07 04:16:14.856651,44,product_view,13,Notebook
+2845,2023-12-07 04:16:14.856651,45,product_view,2,Smartphone
+2846,2023-12-07 04:16:14.856651,46,product_view,49,Camping Tent
+2847,2023-12-07 04:16:14.856651,47,product_view,18,Blender
+2848,2023-12-07 04:16:14.856651,48,product_view,37,Air Purifier
+2849,2023-12-07 04:16:14.856651,49,product_view,21,Running Shoes
+2850,2023-12-07 04:16:14.856651,50,product_view,21,Running Shoes
+2851,2023-12-07 04:16:14.856651,51,product_view,42,Cookware Set
+2852,2023-12-07 04:16:14.856651,52,product_view,28,Water Bottle
+2853,2023-12-07 04:16:14.856651,53,product_view,21,Running Shoes
+2854,2023-12-07 04:16:14.856651,54,product_view,29,Yoga Mat
+2855,2023-12-07 04:16:14.856651,55,product_view,4,Camera
+2856,2023-12-07 04:16:14.856651,56,product_view,18,Blender
+2857,2023-12-07 04:16:14.856651,57,product_view,40,Curtains
+2858,2023-12-07 04:16:14.856651,58,product_view,35,Umbrella
+2859,2023-12-07 04:16:14.856651,59,product_view,42,Cookware Set
+2860,2023-12-07 04:16:14.856651,60,product_view,33,Sweater
+2861,2023-12-07 04:16:14.856651,61,product_view,15,Art Supplies
+2862,2023-12-07 04:16:14.856651,62,product_view,43,Dumbbells
+2863,2023-12-07 04:16:14.856651,63,product_view,2,Smartphone
+2864,2023-12-07 04:16:14.856651,64,product_view,9,Dress
+2865,2023-12-07 04:16:14.856651,65,product_view,26,Watch
+2866,2023-12-07 04:16:14.856651,66,product_view,28,Water Bottle
+2867,2023-12-07 04:16:14.856651,67,product_view,13,Notebook
+2868,2023-12-07 04:16:14.856651,68,product_view,41,Printed Books
+2869,2023-12-07 04:16:14.856651,69,product_view,2,Smartphone
+2870,2023-12-07 04:16:14.856651,70,product_view,47,Cushions
+2871,2023-12-07 04:16:14.856651,71,product_view,15,Art Supplies
+2872,2023-12-07 04:16:14.856651,72,product_view,7,Jeans
+2873,2023-12-07 04:16:14.856651,73,product_view,19,Coffee Maker
+2874,2023-12-07 04:16:14.856651,74,product_view,23,Guitar
+2875,2023-12-07 04:16:14.856651,75,product_view,41,Printed Books
+2876,2023-12-07 04:16:14.856651,76,product_view,50,Sleeping Bag
+2877,2023-12-07 04:16:14.856651,77,product_view,10,Jacket
+2878,2023-12-07 04:16:14.856651,78,product_view,3,Headphones
+2879,2023-12-07 04:16:14.856651,79,product_view,4,Camera
+2880,2023-12-07 04:16:14.856651,80,product_view,30,Plant
+2881,2023-12-07 04:16:14.856651,81,product_view,1,Laptop
+2882,2023-12-07 04:16:14.856651,82,product_view,44,Candles
+2883,2023-12-07 04:16:14.856651,83,product_view,43,Dumbbells
+2884,2023-12-07 04:16:14.856651,84,product_view,38,Bed Sheets
+2885,2023-12-07 04:16:14.856651,85,product_view,36,Vacuum Cleaner
+2886,2023-12-07 04:16:14.856651,86,product_view,11,Book
+2887,2023-12-07 04:16:14.856651,87,product_view,17,Microwave
+2888,2023-12-07 04:16:14.856651,88,product_view,36,Vacuum Cleaner
+2889,2023-12-07 04:16:14.856651,89,product_view,25,Desk Chair
+2890,2023-12-07 04:16:14.856651,90,product_view,3,Headphones
+2891,2023-12-07 04:16:14.856651,91,product_view,20,Toaster
+2892,2023-12-07 04:16:14.856651,92,product_view,1,Laptop
+2893,2023-12-07 04:16:14.856651,93,product_view,3,Headphones
+2894,2023-12-07 04:16:14.856651,94,product_view,33,Sweater
+2895,2023-12-07 04:16:14.856651,95,product_view,10,Jacket
+2896,2023-12-07 04:16:14.856651,96,product_view,33,Sweater
+2897,2023-12-07 04:16:14.856651,97,product_view,8,Sneakers
+2898,2023-12-07 04:16:14.856651,98,product_view,48,Hiking Boots
+2899,2023-12-07 04:16:14.856651,99,product_view,11,Book
+2900,2023-12-07 04:16:14.856651,100,product_view,4,Camera

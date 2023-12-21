@@ -1,0 +1,101 @@
+Interaction_ID,Timestamp,User_ID,Interaction_Type,Product_ID,Product_Name,Quantity
+1,2023-12-07 03:48:11.039275,1,add_to_cart,18,Blender,3
+2,2023-12-07 03:48:11.039275,2,add_to_cart,34,Watch,1
+3,2023-12-07 03:48:11.039275,3,add_to_cart,22,Backpack,2
+4,2023-12-07 03:48:11.039275,4,add_to_cart,40,Curtains,3
+5,2023-12-07 03:48:11.039275,5,add_to_cart,25,Desk Chair,3
+6,2023-12-07 03:48:11.039275,6,add_to_cart,29,Yoga Mat,4
+7,2023-12-07 03:48:11.039275,7,add_to_cart,48,Hiking Boots,1
+8,2023-12-07 03:48:11.039275,8,add_to_cart,42,Cookware Set,1
+9,2023-12-07 03:48:11.039275,9,add_to_cart,11,Book,1
+10,2023-12-07 03:48:11.039275,10,add_to_cart,19,Coffee Maker,3
+11,2023-12-07 03:48:11.039275,11,add_to_cart,38,Bed Sheets,4
+12,2023-12-07 03:48:11.039275,12,add_to_cart,39,Pillow,3
+13,2023-12-07 03:48:11.039275,13,add_to_cart,44,Candles,4
+14,2023-12-07 03:48:11.039275,14,add_to_cart,28,Water Bottle,4
+15,2023-12-07 03:48:11.039275,15,add_to_cart,18,Blender,2
+16,2023-12-07 03:48:11.039275,16,add_to_cart,46,Sculpture,1
+17,2023-12-07 03:48:11.039275,17,add_to_cart,49,Camping Tent,1
+18,2023-12-07 03:48:11.039275,18,add_to_cart,34,Watch,4
+19,2023-12-07 03:48:11.039275,19,add_to_cart,37,Air Purifier,4
+20,2023-12-07 03:48:11.039275,20,add_to_cart,48,Hiking Boots,3
+21,2023-12-07 03:48:11.039275,21,add_to_cart,32,Wallet,3
+22,2023-12-07 03:48:11.039275,22,add_to_cart,14,Pen,2
+23,2023-12-07 03:48:11.039275,23,add_to_cart,27,Sunglasses,3
+24,2023-12-07 03:48:11.039275,24,add_to_cart,19,Coffee Maker,2
+25,2023-12-07 03:48:11.039275,25,add_to_cart,16,Refrigerator,4
+26,2023-12-07 03:48:11.039275,26,add_to_cart,40,Curtains,3
+27,2023-12-07 03:48:11.039275,27,add_to_cart,10,Jacket,3
+28,2023-12-07 03:48:11.039275,28,add_to_cart,14,Pen,2
+29,2023-12-07 03:48:11.039275,29,add_to_cart,46,Sculpture,4
+30,2023-12-07 03:48:11.039275,30,add_to_cart,43,Dumbbells,1
+31,2023-12-07 03:48:11.039275,31,add_to_cart,44,Candles,3
+32,2023-12-07 03:48:11.039275,32,add_to_cart,6,T-Shirt,3
+33,2023-12-07 03:48:11.039275,33,add_to_cart,31,Handbag,2
+34,2023-12-07 03:48:11.039275,34,add_to_cart,27,Sunglasses,3
+35,2023-12-07 03:48:11.039275,35,add_to_cart,41,Printed Books,3
+36,2023-12-07 03:48:11.039275,36,add_to_cart,24,Fitness Tracker,2
+37,2023-12-07 03:48:11.039275,37,add_to_cart,35,Umbrella,2
+38,2023-12-07 03:48:11.039275,38,add_to_cart,14,Pen,1
+39,2023-12-07 03:48:11.039275,39,add_to_cart,26,Watch,4
+40,2023-12-07 03:48:11.039275,40,add_to_cart,45,Wall Clock,3
+41,2023-12-07 03:48:11.039275,41,add_to_cart,31,Handbag,1
+42,2023-12-07 03:48:11.039275,42,add_to_cart,30,Plant,1
+43,2023-12-07 03:48:11.039275,43,add_to_cart,8,Sneakers,1
+44,2023-12-07 03:48:11.039275,44,add_to_cart,38,Bed Sheets,2
+45,2023-12-07 03:48:11.039275,45,add_to_cart,2,Smartphone,1
+46,2023-12-07 03:48:11.039275,46,add_to_cart,2,Smartphone,4
+47,2023-12-07 03:48:11.039275,47,add_to_cart,13,Notebook,4
+48,2023-12-07 03:48:11.039275,48,add_to_cart,44,Candles,4
+49,2023-12-07 03:48:11.039275,49,add_to_cart,32,Wallet,4
+50,2023-12-07 03:48:11.039275,50,add_to_cart,1,Laptop,1
+51,2023-12-07 03:48:11.039275,51,add_to_cart,42,Cookware Set,4
+52,2023-12-07 03:48:11.039275,52,add_to_cart,49,Camping Tent,2
+53,2023-12-07 03:48:11.039275,53,add_to_cart,24,Fitness Tracker,4
+54,2023-12-07 03:48:11.039275,54,add_to_cart,27,Sunglasses,1
+55,2023-12-07 03:48:11.039275,55,add_to_cart,36,Vacuum Cleaner,1
+56,2023-12-07 03:48:11.039275,56,add_to_cart,20,Toaster,1
+57,2023-12-07 03:48:11.039275,57,add_to_cart,11,Book,1
+58,2023-12-07 03:48:11.039275,58,add_to_cart,46,Sculpture,4
+59,2023-12-07 03:48:11.039275,59,add_to_cart,33,Sweater,2
+60,2023-12-07 03:48:11.039275,60,add_to_cart,50,Sleeping Bag,3
+61,2023-12-07 03:48:11.039275,61,add_to_cart,7,Jeans,1
+62,2023-12-07 03:48:11.039275,62,add_to_cart,18,Blender,3
+63,2023-12-07 03:48:11.039275,63,add_to_cart,7,Jeans,3
+64,2023-12-07 03:48:11.039275,64,add_to_cart,50,Sleeping Bag,4
+65,2023-12-07 03:48:11.039275,65,add_to_cart,5,Television,4
+66,2023-12-07 03:48:11.039275,66,add_to_cart,13,Notebook,2
+67,2023-12-07 03:48:11.039275,67,add_to_cart,7,Jeans,3
+68,2023-12-07 03:48:11.039275,68,add_to_cart,23,Guitar,4
+69,2023-12-07 03:48:11.039275,69,add_to_cart,10,Jacket,3
+70,2023-12-07 03:48:11.039275,70,add_to_cart,5,Television,1
+71,2023-12-07 03:48:11.039275,71,add_to_cart,30,Plant,4
+72,2023-12-07 03:48:11.039275,72,add_to_cart,4,Camera,4
+73,2023-12-07 03:48:11.039275,73,add_to_cart,42,Cookware Set,2
+74,2023-12-07 03:48:11.039275,74,add_to_cart,18,Blender,1
+75,2023-12-07 03:48:11.039275,75,add_to_cart,21,Running Shoes,3
+76,2023-12-07 03:48:11.039275,76,add_to_cart,22,Backpack,3
+77,2023-12-07 03:48:11.039275,77,add_to_cart,47,Cushions,2
+78,2023-12-07 03:48:11.039275,78,add_to_cart,6,T-Shirt,1
+79,2023-12-07 03:48:11.039275,79,add_to_cart,33,Sweater,4
+80,2023-12-07 03:48:11.039275,80,add_to_cart,3,Headphones,4
+81,2023-12-07 03:48:11.039275,81,add_to_cart,40,Curtains,4
+82,2023-12-07 03:48:11.039275,82,add_to_cart,37,Air Purifier,4
+83,2023-12-07 03:48:11.039275,83,add_to_cart,16,Refrigerator,3
+84,2023-12-07 03:48:11.039275,84,add_to_cart,17,Microwave,3
+85,2023-12-07 03:48:11.039275,85,add_to_cart,47,Cushions,3
+86,2023-12-07 03:48:11.039275,86,add_to_cart,18,Blender,3
+87,2023-12-07 03:48:11.039275,87,add_to_cart,7,Jeans,1
+88,2023-12-07 03:48:11.039275,88,add_to_cart,32,Wallet,4
+89,2023-12-07 03:48:11.039275,89,add_to_cart,38,Bed Sheets,1
+90,2023-12-07 03:48:11.039275,90,add_to_cart,43,Dumbbells,1
+91,2023-12-07 03:48:11.039275,91,add_to_cart,25,Desk Chair,1
+92,2023-12-07 03:48:11.039275,92,add_to_cart,19,Coffee Maker,4
+93,2023-12-07 03:48:11.039275,93,add_to_cart,45,Wall Clock,2
+94,2023-12-07 03:48:11.039275,94,add_to_cart,27,Sunglasses,3
+95,2023-12-07 03:48:11.039275,95,add_to_cart,9,Dress,2
+96,2023-12-07 03:48:11.039275,96,add_to_cart,6,T-Shirt,2
+97,2023-12-07 03:48:11.039275,97,add_to_cart,44,Candles,2
+98,2023-12-07 03:48:11.039275,98,add_to_cart,32,Wallet,4
+99,2023-12-07 03:48:11.039275,99,add_to_cart,19,Coffee Maker,3
+100,2023-12-07 03:48:11.039275,100,add_to_cart,30,Plant,1

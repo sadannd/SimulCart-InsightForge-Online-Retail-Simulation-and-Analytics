@@ -1,0 +1,101 @@
+Interaction_ID,Timestamp,User_ID,Interaction_Type,Product_ID,Product_Name,Quantity,Payment_Method
+2401,2023-12-07 04:12:14.320926,1,purchase,17,Microwave,1,PayPal
+2402,2023-12-07 04:12:14.320926,2,purchase,25,Desk Chair,4,Credit Card
+2403,2023-12-07 04:12:14.320926,3,purchase,47,Cushions,3,Credit Card
+2404,2023-12-07 04:12:14.320926,4,purchase,50,Sleeping Bag,2,PayPal
+2405,2023-12-07 04:12:14.320926,5,purchase,44,Candles,1,Credit Card
+2406,2023-12-07 04:12:14.320926,6,purchase,47,Cushions,4,Credit Card
+2407,2023-12-07 04:12:14.320926,7,purchase,47,Cushions,2,Credit Card
+2408,2023-12-07 04:12:14.320926,8,purchase,50,Sleeping Bag,3,PayPal
+2409,2023-12-07 04:12:14.320926,9,purchase,44,Candles,4,Credit Card
+2410,2023-12-07 04:12:14.320926,10,purchase,18,Blender,4,PayPal
+2411,2023-12-07 04:12:14.320926,11,purchase,47,Cushions,2,Debit Card
+2412,2023-12-07 04:12:14.320926,12,purchase,30,Plant,1,PayPal
+2413,2023-12-07 04:12:14.320926,13,purchase,37,Air Purifier,2,Credit Card
+2414,2023-12-07 04:12:14.320926,14,purchase,1,Laptop,1,Credit Card
+2415,2023-12-07 04:12:14.320926,15,purchase,41,Printed Books,2,Credit Card
+2416,2023-12-07 04:12:14.320926,16,purchase,12,E-reader,4,Credit Card
+2417,2023-12-07 04:12:14.320926,17,purchase,41,Printed Books,3,Credit Card
+2418,2023-12-07 04:12:14.320926,18,purchase,8,Sneakers,3,PayPal
+2419,2023-12-07 04:12:14.320926,19,purchase,10,Jacket,1,PayPal
+2420,2023-12-07 04:12:14.320926,20,purchase,29,Yoga Mat,1,Debit Card
+2421,2023-12-07 04:12:14.320926,21,purchase,36,Vacuum Cleaner,2,PayPal
+2422,2023-12-07 04:12:14.320926,22,purchase,6,T-Shirt,3,Credit Card
+2423,2023-12-07 04:12:14.320926,23,purchase,24,Fitness Tracker,4,PayPal
+2424,2023-12-07 04:12:14.320926,24,purchase,44,Candles,2,Debit Card
+2425,2023-12-07 04:12:14.320926,25,purchase,13,Notebook,2,PayPal
+2426,2023-12-07 04:12:14.320926,26,purchase,2,Smartphone,1,Credit Card
+2427,2023-12-07 04:12:14.320926,27,purchase,42,Cookware Set,1,Debit Card
+2428,2023-12-07 04:12:14.320926,28,purchase,41,Printed Books,1,Debit Card
+2429,2023-12-07 04:12:14.320926,29,purchase,24,Fitness Tracker,2,Credit Card
+2430,2023-12-07 04:12:14.320926,30,purchase,14,Pen,3,Debit Card
+2431,2023-12-07 04:12:14.320926,31,purchase,14,Pen,2,PayPal
+2432,2023-12-07 04:12:14.320926,32,purchase,47,Cushions,1,Credit Card
+2433,2023-12-07 04:12:14.320926,33,purchase,31,Handbag,1,PayPal
+2434,2023-12-07 04:12:14.320926,34,purchase,20,Toaster,1,PayPal
+2435,2023-12-07 04:12:14.320926,35,purchase,19,Coffee Maker,4,Debit Card
+2436,2023-12-07 04:12:14.320926,36,purchase,43,Dumbbells,1,Credit Card
+2437,2023-12-07 04:12:14.320926,37,purchase,29,Yoga Mat,1,PayPal
+2438,2023-12-07 04:12:14.320926,38,purchase,27,Sunglasses,2,Debit Card
+2439,2023-12-07 04:12:14.320926,39,purchase,7,Jeans,3,Credit Card
+2440,2023-12-07 04:12:14.320926,40,purchase,25,Desk Chair,1,Debit Card
+2441,2023-12-07 04:12:14.320926,41,purchase,34,Watch,1,PayPal
+2442,2023-12-07 04:12:14.320926,42,purchase,32,Wallet,1,PayPal
+2443,2023-12-07 04:12:14.320926,43,purchase,2,Smartphone,1,Credit Card
+2444,2023-12-07 04:12:14.320926,44,purchase,43,Dumbbells,3,Credit Card
+2445,2023-12-07 04:12:14.320926,45,purchase,30,Plant,4,PayPal
+2446,2023-12-07 04:12:14.320926,46,purchase,32,Wallet,4,PayPal
+2447,2023-12-07 04:12:14.320926,47,purchase,19,Coffee Maker,2,Debit Card
+2448,2023-12-07 04:12:14.320926,48,purchase,47,Cushions,3,PayPal
+2449,2023-12-07 04:12:14.320926,49,purchase,19,Coffee Maker,4,Credit Card
+2450,2023-12-07 04:12:14.320926,50,purchase,18,Blender,4,Debit Card
+2451,2023-12-07 04:12:14.320926,51,purchase,28,Water Bottle,4,Credit Card
+2452,2023-12-07 04:12:14.320926,52,purchase,47,Cushions,4,PayPal
+2453,2023-12-07 04:12:14.320926,53,purchase,16,Refrigerator,4,Credit Card
+2454,2023-12-07 04:12:14.320926,54,purchase,42,Cookware Set,3,Debit Card
+2455,2023-12-07 04:12:14.320926,55,purchase,40,Curtains,1,Credit Card
+2456,2023-12-07 04:12:14.320926,56,purchase,49,Camping Tent,3,Debit Card
+2457,2023-12-07 04:12:14.320926,57,purchase,43,Dumbbells,2,PayPal
+2458,2023-12-07 04:12:14.320926,58,purchase,27,Sunglasses,1,Credit Card
+2459,2023-12-07 04:12:14.320926,59,purchase,35,Umbrella,2,Credit Card
+2460,2023-12-07 04:12:14.320926,60,purchase,34,Watch,3,Debit Card
+2461,2023-12-07 04:12:14.320926,61,purchase,33,Sweater,1,Credit Card
+2462,2023-12-07 04:12:14.320926,62,purchase,16,Refrigerator,4,Debit Card
+2463,2023-12-07 04:12:14.320926,63,purchase,27,Sunglasses,2,Debit Card
+2464,2023-12-07 04:12:14.320926,64,purchase,35,Umbrella,2,Debit Card
+2465,2023-12-07 04:12:14.320926,65,purchase,4,Camera,2,Debit Card
+2466,2023-12-07 04:12:14.320926,66,purchase,19,Coffee Maker,3,PayPal
+2467,2023-12-07 04:12:14.320926,67,purchase,32,Wallet,1,PayPal
+2468,2023-12-07 04:12:14.320926,68,purchase,22,Backpack,3,Credit Card
+2469,2023-12-07 04:12:14.320926,69,purchase,13,Notebook,4,PayPal
+2470,2023-12-07 04:12:14.320926,70,purchase,22,Backpack,3,Debit Card
+2471,2023-12-07 04:12:14.320926,71,purchase,7,Jeans,2,Credit Card
+2472,2023-12-07 04:12:14.320926,72,purchase,13,Notebook,2,Credit Card
+2473,2023-12-07 04:12:14.320926,73,purchase,22,Backpack,3,Credit Card
+2474,2023-12-07 04:12:14.320926,74,purchase,50,Sleeping Bag,4,Debit Card
+2475,2023-12-07 04:12:14.320926,75,purchase,17,Microwave,4,Debit Card
+2476,2023-12-07 04:12:14.320926,76,purchase,43,Dumbbells,2,Debit Card
+2477,2023-12-07 04:12:14.320926,77,purchase,40,Curtains,4,PayPal
+2478,2023-12-07 04:12:14.320926,78,purchase,46,Sculpture,2,Credit Card
+2479,2023-12-07 04:12:14.320926,79,purchase,10,Jacket,4,Debit Card
+2480,2023-12-07 04:12:14.320926,80,purchase,29,Yoga Mat,1,Credit Card
+2481,2023-12-07 04:12:14.320926,81,purchase,10,Jacket,4,Debit Card
+2482,2023-12-07 04:12:14.320926,82,purchase,36,Vacuum Cleaner,3,Debit Card
+2483,2023-12-07 04:12:14.320926,83,purchase,1,Laptop,3,Debit Card
+2484,2023-12-07 04:12:14.320926,84,purchase,42,Cookware Set,2,PayPal
+2485,2023-12-07 04:12:14.320926,85,purchase,38,Bed Sheets,2,Debit Card
+2486,2023-12-07 04:12:14.320926,86,purchase,13,Notebook,4,PayPal
+2487,2023-12-07 04:12:14.320926,87,purchase,10,Jacket,3,PayPal
+2488,2023-12-07 04:12:14.320926,88,purchase,47,Cushions,4,Debit Card
+2489,2023-12-07 04:12:14.320926,89,purchase,46,Sculpture,4,Credit Card
+2490,2023-12-07 04:12:14.320926,90,purchase,19,Coffee Maker,4,PayPal
+2491,2023-12-07 04:12:14.320926,91,purchase,20,Toaster,4,Credit Card
+2492,2023-12-07 04:12:14.320926,92,purchase,7,Jeans,3,Credit Card
+2493,2023-12-07 04:12:14.320926,93,purchase,42,Cookware Set,2,PayPal
+2494,2023-12-07 04:12:14.320926,94,purchase,49,Camping Tent,3,Debit Card
+2495,2023-12-07 04:12:14.320926,95,purchase,1,Laptop,2,Debit Card
+2496,2023-12-07 04:12:14.320926,96,purchase,30,Plant,4,PayPal
+2497,2023-12-07 04:12:14.320926,97,purchase,42,Cookware Set,3,Credit Card
+2498,2023-12-07 04:12:14.320926,98,purchase,17,Microwave,2,Credit Card
+2499,2023-12-07 04:12:14.320926,99,purchase,40,Curtains,3,PayPal
+2500,2023-12-07 04:12:14.320926,100,purchase,17,Microwave,2,Debit Card

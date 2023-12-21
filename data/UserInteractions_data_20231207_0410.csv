@@ -1,0 +1,101 @@
+Interaction_ID,Timestamp,User_ID,Interaction_Type,Product_ID,Product_Name
+2201,2023-12-07 04:10:14.114365,1,product_view,20,Toaster
+2202,2023-12-07 04:10:14.114365,2,product_view,33,Sweater
+2203,2023-12-07 04:10:14.114365,3,product_view,47,Cushions
+2204,2023-12-07 04:10:14.114365,4,product_view,48,Hiking Boots
+2205,2023-12-07 04:10:14.114365,5,product_view,36,Vacuum Cleaner
+2206,2023-12-07 04:10:14.114365,6,product_view,50,Sleeping Bag
+2207,2023-12-07 04:10:14.114365,7,product_view,41,Printed Books
+2208,2023-12-07 04:10:14.114365,8,product_view,33,Sweater
+2209,2023-12-07 04:10:14.114365,9,product_view,16,Refrigerator
+2210,2023-12-07 04:10:14.114365,10,product_view,40,Curtains
+2211,2023-12-07 04:10:14.114365,11,product_view,30,Plant
+2212,2023-12-07 04:10:14.114365,12,product_view,2,Smartphone
+2213,2023-12-07 04:10:14.114365,13,product_view,47,Cushions
+2214,2023-12-07 04:10:14.114365,14,product_view,5,Television
+2215,2023-12-07 04:10:14.114365,15,product_view,11,Book
+2216,2023-12-07 04:10:14.114365,16,product_view,12,E-reader
+2217,2023-12-07 04:10:14.114365,17,product_view,35,Umbrella
+2218,2023-12-07 04:10:14.114365,18,product_view,29,Yoga Mat
+2219,2023-12-07 04:10:14.114365,19,product_view,16,Refrigerator
+2220,2023-12-07 04:10:14.114365,20,product_view,6,T-Shirt
+2221,2023-12-07 04:10:14.114365,21,product_view,39,Pillow
+2222,2023-12-07 04:10:14.114365,22,product_view,47,Cushions
+2223,2023-12-07 04:10:14.114365,23,product_view,35,Umbrella
+2224,2023-12-07 04:10:14.114365,24,product_view,24,Fitness Tracker
+2225,2023-12-07 04:10:14.114365,25,product_view,11,Book
+2226,2023-12-07 04:10:14.114365,26,product_view,19,Coffee Maker
+2227,2023-12-07 04:10:14.114365,27,product_view,44,Candles
+2228,2023-12-07 04:10:14.114365,28,product_view,7,Jeans
+2229,2023-12-07 04:10:14.114365,29,product_view,8,Sneakers
+2230,2023-12-07 04:10:14.114365,30,product_view,4,Camera
+2231,2023-12-07 04:10:14.114365,31,product_view,2,Smartphone
+2232,2023-12-07 04:10:14.114365,32,product_view,37,Air Purifier
+2233,2023-12-07 04:10:14.114365,33,product_view,40,Curtains
+2234,2023-12-07 04:10:14.114365,34,product_view,48,Hiking Boots
+2235,2023-12-07 04:10:14.114365,35,product_view,27,Sunglasses
+2236,2023-12-07 04:10:14.114365,36,product_view,40,Curtains
+2237,2023-12-07 04:10:14.114365,37,product_view,24,Fitness Tracker
+2238,2023-12-07 04:10:14.114365,38,product_view,17,Microwave
+2239,2023-12-07 04:10:14.114365,39,product_view,3,Headphones
+2240,2023-12-07 04:10:14.114365,40,product_view,27,Sunglasses
+2241,2023-12-07 04:10:14.114365,41,product_view,32,Wallet
+2242,2023-12-07 04:10:14.114365,42,product_view,7,Jeans
+2243,2023-12-07 04:10:14.114365,43,product_view,29,Yoga Mat
+2244,2023-12-07 04:10:14.114365,44,product_view,42,Cookware Set
+2245,2023-12-07 04:10:14.114365,45,product_view,9,Dress
+2246,2023-12-07 04:10:14.114365,46,product_view,24,Fitness Tracker
+2247,2023-12-07 04:10:14.114365,47,product_view,14,Pen
+2248,2023-12-07 04:10:14.114365,48,product_view,39,Pillow
+2249,2023-12-07 04:10:14.114365,49,product_view,38,Bed Sheets
+2250,2023-12-07 04:10:14.114365,50,product_view,38,Bed Sheets
+2251,2023-12-07 04:10:14.114365,51,product_view,44,Candles
+2252,2023-12-07 04:10:14.114365,52,product_view,48,Hiking Boots
+2253,2023-12-07 04:10:14.114365,53,product_view,18,Blender
+2254,2023-12-07 04:10:14.114365,54,product_view,37,Air Purifier
+2255,2023-12-07 04:10:14.114365,55,product_view,15,Art Supplies
+2256,2023-12-07 04:10:14.114365,56,product_view,4,Camera
+2257,2023-12-07 04:10:14.114365,57,product_view,28,Water Bottle
+2258,2023-12-07 04:10:14.114365,58,product_view,15,Art Supplies
+2259,2023-12-07 04:10:14.114365,59,product_view,12,E-reader
+2260,2023-12-07 04:10:14.114365,60,product_view,31,Handbag
+2261,2023-12-07 04:10:14.114365,61,product_view,30,Plant
+2262,2023-12-07 04:10:14.114365,62,product_view,42,Cookware Set
+2263,2023-12-07 04:10:14.114365,63,product_view,29,Yoga Mat
+2264,2023-12-07 04:10:14.114365,64,product_view,36,Vacuum Cleaner
+2265,2023-12-07 04:10:14.114365,65,product_view,11,Book
+2266,2023-12-07 04:10:14.114365,66,product_view,16,Refrigerator
+2267,2023-12-07 04:10:14.114365,67,product_view,9,Dress
+2268,2023-12-07 04:10:14.114365,68,product_view,43,Dumbbells
+2269,2023-12-07 04:10:14.114365,69,product_view,43,Dumbbells
+2270,2023-12-07 04:10:14.114365,70,product_view,39,Pillow
+2271,2023-12-07 04:10:14.114365,71,product_view,15,Art Supplies
+2272,2023-12-07 04:10:14.114365,72,product_view,8,Sneakers
+2273,2023-12-07 04:10:14.114365,73,product_view,18,Blender
+2274,2023-12-07 04:10:14.114365,74,product_view,27,Sunglasses
+2275,2023-12-07 04:10:14.114365,75,product_view,50,Sleeping Bag
+2276,2023-12-07 04:10:14.114365,76,product_view,49,Camping Tent
+2277,2023-12-07 04:10:14.114365,77,product_view,37,Air Purifier
+2278,2023-12-07 04:10:14.114365,78,product_view,49,Camping Tent
+2279,2023-12-07 04:10:14.114365,79,product_view,41,Printed Books
+2280,2023-12-07 04:10:14.114365,80,product_view,48,Hiking Boots
+2281,2023-12-07 04:10:14.114365,81,product_view,22,Backpack
+2282,2023-12-07 04:10:14.114365,82,product_view,46,Sculpture
+2283,2023-12-07 04:10:14.114365,83,product_view,36,Vacuum Cleaner
+2284,2023-12-07 04:10:14.114365,84,product_view,50,Sleeping Bag
+2285,2023-12-07 04:10:14.114365,85,product_view,4,Camera
+2286,2023-12-07 04:10:14.114365,86,product_view,46,Sculpture
+2287,2023-12-07 04:10:14.114365,87,product_view,49,Camping Tent
+2288,2023-12-07 04:10:14.114365,88,product_view,22,Backpack
+2289,2023-12-07 04:10:14.114365,89,product_view,24,Fitness Tracker
+2290,2023-12-07 04:10:14.114365,90,product_view,19,Coffee Maker
+2291,2023-12-07 04:10:14.114365,91,product_view,9,Dress
+2292,2023-12-07 04:10:14.114365,92,product_view,11,Book
+2293,2023-12-07 04:10:14.114365,93,product_view,46,Sculpture
+2294,2023-12-07 04:10:14.114365,94,product_view,9,Dress
+2295,2023-12-07 04:10:14.114365,95,product_view,11,Book
+2296,2023-12-07 04:10:14.114365,96,product_view,16,Refrigerator
+2297,2023-12-07 04:10:14.114365,97,product_view,1,Laptop
+2298,2023-12-07 04:10:14.114365,98,product_view,7,Jeans
+2299,2023-12-07 04:10:14.114365,99,product_view,49,Camping Tent
+2300,2023-12-07 04:10:14.114365,100,product_view,19,Coffee Maker

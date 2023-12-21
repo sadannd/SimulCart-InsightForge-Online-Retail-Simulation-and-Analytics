@@ -1,0 +1,101 @@
+Interaction_ID,Timestamp,User_ID,Interaction_Type,Product_ID,Product_Name
+1001,2023-12-07 03:58:12.508904,1,product_view,36,Vacuum Cleaner
+1002,2023-12-07 03:58:12.508904,2,product_view,38,Bed Sheets
+1003,2023-12-07 03:58:12.508904,3,product_view,14,Pen
+1004,2023-12-07 03:58:12.508904,4,product_view,2,Smartphone
+1005,2023-12-07 03:58:12.508904,5,product_view,34,Watch
+1006,2023-12-07 03:58:12.508904,6,product_view,47,Cushions
+1007,2023-12-07 03:58:12.508904,7,product_view,23,Guitar
+1008,2023-12-07 03:58:12.508904,8,product_view,38,Bed Sheets
+1009,2023-12-07 03:58:12.508904,9,product_view,14,Pen
+1010,2023-12-07 03:58:12.508904,10,product_view,32,Wallet
+1011,2023-12-07 03:58:12.508904,11,product_view,5,Television
+1012,2023-12-07 03:58:12.508904,12,product_view,36,Vacuum Cleaner
+1013,2023-12-07 03:58:12.508904,13,product_view,40,Curtains
+1014,2023-12-07 03:58:12.508904,14,product_view,44,Candles
+1015,2023-12-07 03:58:12.508904,15,product_view,5,Television
+1016,2023-12-07 03:58:12.508904,16,product_view,14,Pen
+1017,2023-12-07 03:58:12.508904,17,product_view,41,Printed Books
+1018,2023-12-07 03:58:12.508904,18,product_view,42,Cookware Set
+1019,2023-12-07 03:58:12.508904,19,product_view,40,Curtains
+1020,2023-12-07 03:58:12.508904,20,product_view,8,Sneakers
+1021,2023-12-07 03:58:12.508904,21,product_view,24,Fitness Tracker
+1022,2023-12-07 03:58:12.508904,22,product_view,1,Laptop
+1023,2023-12-07 03:58:12.508904,23,product_view,9,Dress
+1024,2023-12-07 03:58:12.508904,24,product_view,21,Running Shoes
+1025,2023-12-07 03:58:12.508904,25,product_view,20,Toaster
+1026,2023-12-07 03:58:12.508904,26,product_view,12,E-reader
+1027,2023-12-07 03:58:12.508904,27,product_view,17,Microwave
+1028,2023-12-07 03:58:12.508904,28,product_view,23,Guitar
+1029,2023-12-07 03:58:12.508904,29,product_view,43,Dumbbells
+1030,2023-12-07 03:58:12.508904,30,product_view,1,Laptop
+1031,2023-12-07 03:58:12.508904,31,product_view,37,Air Purifier
+1032,2023-12-07 03:58:12.508904,32,product_view,20,Toaster
+1033,2023-12-07 03:58:12.508904,33,product_view,5,Television
+1034,2023-12-07 03:58:12.508904,34,product_view,45,Wall Clock
+1035,2023-12-07 03:58:12.508904,35,product_view,29,Yoga Mat
+1036,2023-12-07 03:58:12.508904,36,product_view,7,Jeans
+1037,2023-12-07 03:58:12.508904,37,product_view,7,Jeans
+1038,2023-12-07 03:58:12.508904,38,product_view,1,Laptop
+1039,2023-12-07 03:58:12.508904,39,product_view,29,Yoga Mat
+1040,2023-12-07 03:58:12.508904,40,product_view,16,Refrigerator
+1041,2023-12-07 03:58:12.508904,41,product_view,27,Sunglasses
+1042,2023-12-07 03:58:12.508904,42,product_view,17,Microwave
+1043,2023-12-07 03:58:12.508904,43,product_view,19,Coffee Maker
+1044,2023-12-07 03:58:12.508904,44,product_view,15,Art Supplies
+1045,2023-12-07 03:58:12.508904,45,product_view,18,Blender
+1046,2023-12-07 03:58:12.508904,46,product_view,24,Fitness Tracker
+1047,2023-12-07 03:58:12.508904,47,product_view,17,Microwave
+1048,2023-12-07 03:58:12.508904,48,product_view,37,Air Purifier
+1049,2023-12-07 03:58:12.508904,49,product_view,15,Art Supplies
+1050,2023-12-07 03:58:12.508904,50,product_view,39,Pillow
+1051,2023-12-07 03:58:12.508904,51,product_view,22,Backpack
+1052,2023-12-07 03:58:12.508904,52,product_view,50,Sleeping Bag
+1053,2023-12-07 03:58:12.508904,53,product_view,32,Wallet
+1054,2023-12-07 03:58:12.508904,54,product_view,35,Umbrella
+1055,2023-12-07 03:58:12.508904,55,product_view,10,Jacket
+1056,2023-12-07 03:58:12.508904,56,product_view,24,Fitness Tracker
+1057,2023-12-07 03:58:12.508904,57,product_view,25,Desk Chair
+1058,2023-12-07 03:58:12.508904,58,product_view,24,Fitness Tracker
+1059,2023-12-07 03:58:12.508904,59,product_view,50,Sleeping Bag
+1060,2023-12-07 03:58:12.508904,60,product_view,26,Watch
+1061,2023-12-07 03:58:12.508904,61,product_view,26,Watch
+1062,2023-12-07 03:58:12.508904,62,product_view,46,Sculpture
+1063,2023-12-07 03:58:12.508904,63,product_view,38,Bed Sheets
+1064,2023-12-07 03:58:12.508904,64,product_view,36,Vacuum Cleaner
+1065,2023-12-07 03:58:12.508904,65,product_view,48,Hiking Boots
+1066,2023-12-07 03:58:12.508904,66,product_view,27,Sunglasses
+1067,2023-12-07 03:58:12.508904,67,product_view,19,Coffee Maker
+1068,2023-12-07 03:58:12.508904,68,product_view,25,Desk Chair
+1069,2023-12-07 03:58:12.508904,69,product_view,14,Pen
+1070,2023-12-07 03:58:12.508904,70,product_view,26,Watch
+1071,2023-12-07 03:58:12.508904,71,product_view,31,Handbag
+1072,2023-12-07 03:58:12.508904,72,product_view,8,Sneakers
+1073,2023-12-07 03:58:12.508904,73,product_view,28,Water Bottle
+1074,2023-12-07 03:58:12.508904,74,product_view,5,Television
+1075,2023-12-07 03:58:12.508904,75,product_view,36,Vacuum Cleaner
+1076,2023-12-07 03:58:12.508904,76,product_view,25,Desk Chair
+1077,2023-12-07 03:58:12.508904,77,product_view,14,Pen
+1078,2023-12-07 03:58:12.508904,78,product_view,41,Printed Books
+1079,2023-12-07 03:58:12.508904,79,product_view,38,Bed Sheets
+1080,2023-12-07 03:58:12.508904,80,product_view,36,Vacuum Cleaner
+1081,2023-12-07 03:58:12.508904,81,product_view,27,Sunglasses
+1082,2023-12-07 03:58:12.508904,82,product_view,6,T-Shirt
+1083,2023-12-07 03:58:12.508904,83,product_view,41,Printed Books
+1084,2023-12-07 03:58:12.508904,84,product_view,39,Pillow
+1085,2023-12-07 03:58:12.508904,85,product_view,7,Jeans
+1086,2023-12-07 03:58:12.508904,86,product_view,9,Dress
+1087,2023-12-07 03:58:12.508904,87,product_view,47,Cushions
+1088,2023-12-07 03:58:12.508904,88,product_view,21,Running Shoes
+1089,2023-12-07 03:58:12.508904,89,product_view,47,Cushions
+1090,2023-12-07 03:58:12.508904,90,product_view,34,Watch
+1091,2023-12-07 03:58:12.508904,91,product_view,22,Backpack
+1092,2023-12-07 03:58:12.508904,92,product_view,32,Wallet
+1093,2023-12-07 03:58:12.508904,93,product_view,18,Blender
+1094,2023-12-07 03:58:12.508904,94,product_view,12,E-reader
+1095,2023-12-07 03:58:12.508904,95,product_view,45,Wall Clock
+1096,2023-12-07 03:58:12.508904,96,product_view,13,Notebook
+1097,2023-12-07 03:58:12.508904,97,product_view,34,Watch
+1098,2023-12-07 03:58:12.508904,98,product_view,6,T-Shirt
+1099,2023-12-07 03:58:12.508904,99,product_view,46,Sculpture
+1100,2023-12-07 03:58:12.508904,100,product_view,20,Toaster

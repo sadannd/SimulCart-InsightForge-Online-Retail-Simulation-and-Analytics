@@ -1,0 +1,101 @@
+Interaction_ID,Timestamp,User_ID,Interaction_Type,Product_ID,Product_Name
+301,2023-12-07 03:51:11.548818,1,product_view,19,Coffee Maker
+302,2023-12-07 03:51:11.548818,2,product_view,27,Sunglasses
+303,2023-12-07 03:51:11.548818,3,product_view,33,Sweater
+304,2023-12-07 03:51:11.548818,4,product_view,49,Camping Tent
+305,2023-12-07 03:51:11.548818,5,product_view,18,Blender
+306,2023-12-07 03:51:11.548818,6,product_view,4,Camera
+307,2023-12-07 03:51:11.548818,7,product_view,30,Plant
+308,2023-12-07 03:51:11.548818,8,product_view,14,Pen
+309,2023-12-07 03:51:11.548818,9,product_view,9,Dress
+310,2023-12-07 03:51:11.548818,10,product_view,29,Yoga Mat
+311,2023-12-07 03:51:11.548818,11,product_view,24,Fitness Tracker
+312,2023-12-07 03:51:11.548818,12,product_view,27,Sunglasses
+313,2023-12-07 03:51:11.548818,13,product_view,50,Sleeping Bag
+314,2023-12-07 03:51:11.548818,14,product_view,21,Running Shoes
+315,2023-12-07 03:51:11.548818,15,product_view,22,Backpack
+316,2023-12-07 03:51:11.548818,16,product_view,1,Laptop
+317,2023-12-07 03:51:11.548818,17,product_view,24,Fitness Tracker
+318,2023-12-07 03:51:11.548818,18,product_view,17,Microwave
+319,2023-12-07 03:51:11.548818,19,product_view,23,Guitar
+320,2023-12-07 03:51:11.548818,20,product_view,20,Toaster
+321,2023-12-07 03:51:11.548818,21,product_view,6,T-Shirt
+322,2023-12-07 03:51:11.548818,22,product_view,43,Dumbbells
+323,2023-12-07 03:51:11.548818,23,product_view,25,Desk Chair
+324,2023-12-07 03:51:11.548818,24,product_view,46,Sculpture
+325,2023-12-07 03:51:11.548818,25,product_view,32,Wallet
+326,2023-12-07 03:51:11.548818,26,product_view,10,Jacket
+327,2023-12-07 03:51:11.548818,27,product_view,44,Candles
+328,2023-12-07 03:51:11.548818,28,product_view,50,Sleeping Bag
+329,2023-12-07 03:51:11.548818,29,product_view,14,Pen
+330,2023-12-07 03:51:11.548818,30,product_view,14,Pen
+331,2023-12-07 03:51:11.548818,31,product_view,43,Dumbbells
+332,2023-12-07 03:51:11.548818,32,product_view,50,Sleeping Bag
+333,2023-12-07 03:51:11.548818,33,product_view,13,Notebook
+334,2023-12-07 03:51:11.548818,34,product_view,41,Printed Books
+335,2023-12-07 03:51:11.548818,35,product_view,43,Dumbbells
+336,2023-12-07 03:51:11.548818,36,product_view,33,Sweater
+337,2023-12-07 03:51:11.548818,37,product_view,38,Bed Sheets
+338,2023-12-07 03:51:11.548818,38,product_view,19,Coffee Maker
+339,2023-12-07 03:51:11.548818,39,product_view,10,Jacket
+340,2023-12-07 03:51:11.548818,40,product_view,16,Refrigerator
+341,2023-12-07 03:51:11.548818,41,product_view,9,Dress
+342,2023-12-07 03:51:11.548818,42,product_view,34,Watch
+343,2023-12-07 03:51:11.548818,43,product_view,42,Cookware Set
+344,2023-12-07 03:51:11.548818,44,product_view,33,Sweater
+345,2023-12-07 03:51:11.548818,45,product_view,24,Fitness Tracker
+346,2023-12-07 03:51:11.548818,46,product_view,15,Art Supplies
+347,2023-12-07 03:51:11.548818,47,product_view,7,Jeans
+348,2023-12-07 03:51:11.548818,48,product_view,9,Dress
+349,2023-12-07 03:51:11.548818,49,product_view,10,Jacket
+350,2023-12-07 03:51:11.548818,50,product_view,22,Backpack
+351,2023-12-07 03:51:11.548818,51,product_view,4,Camera
+352,2023-12-07 03:51:11.548818,52,product_view,32,Wallet
+353,2023-12-07 03:51:11.548818,53,product_view,13,Notebook
+354,2023-12-07 03:51:11.548818,54,product_view,45,Wall Clock
+355,2023-12-07 03:51:11.548818,55,product_view,44,Candles
+356,2023-12-07 03:51:11.548818,56,product_view,18,Blender
+357,2023-12-07 03:51:11.548818,57,product_view,32,Wallet
+358,2023-12-07 03:51:11.548818,58,product_view,5,Television
+359,2023-12-07 03:51:11.548818,59,product_view,21,Running Shoes
+360,2023-12-07 03:51:11.548818,60,product_view,40,Curtains
+361,2023-12-07 03:51:11.548818,61,product_view,33,Sweater
+362,2023-12-07 03:51:11.548818,62,product_view,29,Yoga Mat
+363,2023-12-07 03:51:11.548818,63,product_view,9,Dress
+364,2023-12-07 03:51:11.548818,64,product_view,42,Cookware Set
+365,2023-12-07 03:51:11.548818,65,product_view,6,T-Shirt
+366,2023-12-07 03:51:11.548818,66,product_view,31,Handbag
+367,2023-12-07 03:51:11.548818,67,product_view,20,Toaster
+368,2023-12-07 03:51:11.548818,68,product_view,39,Pillow
+369,2023-12-07 03:51:11.548818,69,product_view,44,Candles
+370,2023-12-07 03:51:11.548818,70,product_view,28,Water Bottle
+371,2023-12-07 03:51:11.548818,71,product_view,22,Backpack
+372,2023-12-07 03:51:11.548818,72,product_view,25,Desk Chair
+373,2023-12-07 03:51:11.548818,73,product_view,23,Guitar
+374,2023-12-07 03:51:11.548818,74,product_view,23,Guitar
+375,2023-12-07 03:51:11.548818,75,product_view,15,Art Supplies
+376,2023-12-07 03:51:11.548818,76,product_view,13,Notebook
+377,2023-12-07 03:51:11.548818,77,product_view,28,Water Bottle
+378,2023-12-07 03:51:11.548818,78,product_view,48,Hiking Boots
+379,2023-12-07 03:51:11.548818,79,product_view,9,Dress
+380,2023-12-07 03:51:11.548818,80,product_view,47,Cushions
+381,2023-12-07 03:51:11.548818,81,product_view,22,Backpack
+382,2023-12-07 03:51:11.548818,82,product_view,46,Sculpture
+383,2023-12-07 03:51:11.548818,83,product_view,9,Dress
+384,2023-12-07 03:51:11.548818,84,product_view,15,Art Supplies
+385,2023-12-07 03:51:11.548818,85,product_view,37,Air Purifier
+386,2023-12-07 03:51:11.548818,86,product_view,23,Guitar
+387,2023-12-07 03:51:11.548818,87,product_view,28,Water Bottle
+388,2023-12-07 03:51:11.548818,88,product_view,46,Sculpture
+389,2023-12-07 03:51:11.548818,89,product_view,38,Bed Sheets
+390,2023-12-07 03:51:11.548818,90,product_view,14,Pen
+391,2023-12-07 03:51:11.548818,91,product_view,33,Sweater
+392,2023-12-07 03:51:11.548818,92,product_view,23,Guitar
+393,2023-12-07 03:51:11.548818,93,product_view,6,T-Shirt
+394,2023-12-07 03:51:11.548818,94,product_view,10,Jacket
+395,2023-12-07 03:51:11.548818,95,product_view,7,Jeans
+396,2023-12-07 03:51:11.548818,96,product_view,25,Desk Chair
+397,2023-12-07 03:51:11.548818,97,product_view,6,T-Shirt
+398,2023-12-07 03:51:11.548818,98,product_view,15,Art Supplies
+399,2023-12-07 03:51:11.548818,99,product_view,48,Hiking Boots
+400,2023-12-07 03:51:11.548818,100,product_view,5,Television

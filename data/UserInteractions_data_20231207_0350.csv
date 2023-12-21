@@ -1,0 +1,101 @@
+Interaction_ID,Timestamp,User_ID,Interaction_Type,Product_ID,Product_Name,Quantity,Payment_Method
+201,2023-12-07 03:50:11.394170,1,purchase,34,Watch,1,Debit Card
+202,2023-12-07 03:50:11.394170,2,purchase,18,Blender,4,Debit Card
+203,2023-12-07 03:50:11.394170,3,purchase,38,Bed Sheets,4,Debit Card
+204,2023-12-07 03:50:11.394170,4,purchase,28,Water Bottle,2,Credit Card
+205,2023-12-07 03:50:11.394170,5,purchase,41,Printed Books,2,Credit Card
+206,2023-12-07 03:50:11.394170,6,purchase,33,Sweater,4,PayPal
+207,2023-12-07 03:50:11.394170,7,purchase,32,Wallet,4,Debit Card
+208,2023-12-07 03:50:11.394170,8,purchase,38,Bed Sheets,2,PayPal
+209,2023-12-07 03:50:11.394170,9,purchase,49,Camping Tent,1,Debit Card
+210,2023-12-07 03:50:11.394170,10,purchase,40,Curtains,2,Credit Card
+211,2023-12-07 03:50:11.394170,11,purchase,2,Smartphone,1,Credit Card
+212,2023-12-07 03:50:11.394170,12,purchase,49,Camping Tent,4,Credit Card
+213,2023-12-07 03:50:11.394170,13,purchase,7,Jeans,3,Debit Card
+214,2023-12-07 03:50:11.394170,14,purchase,9,Dress,1,PayPal
+215,2023-12-07 03:50:11.394170,15,purchase,34,Watch,3,Debit Card
+216,2023-12-07 03:50:11.394170,16,purchase,5,Television,1,PayPal
+217,2023-12-07 03:50:11.394170,17,purchase,18,Blender,2,Credit Card
+218,2023-12-07 03:50:11.394170,18,purchase,5,Television,1,Debit Card
+219,2023-12-07 03:50:11.394170,19,purchase,16,Refrigerator,1,PayPal
+220,2023-12-07 03:50:11.394170,20,purchase,3,Headphones,3,Credit Card
+221,2023-12-07 03:50:11.394170,21,purchase,40,Curtains,1,Credit Card
+222,2023-12-07 03:50:11.394170,22,purchase,21,Running Shoes,2,PayPal
+223,2023-12-07 03:50:11.394170,23,purchase,34,Watch,3,Debit Card
+224,2023-12-07 03:50:11.394170,24,purchase,45,Wall Clock,4,PayPal
+225,2023-12-07 03:50:11.394170,25,purchase,5,Television,1,Debit Card
+226,2023-12-07 03:50:11.394170,26,purchase,28,Water Bottle,4,Credit Card
+227,2023-12-07 03:50:11.394170,27,purchase,16,Refrigerator,3,Credit Card
+228,2023-12-07 03:50:11.394170,28,purchase,32,Wallet,4,PayPal
+229,2023-12-07 03:50:11.394170,29,purchase,40,Curtains,1,Credit Card
+230,2023-12-07 03:50:11.394170,30,purchase,33,Sweater,3,PayPal
+231,2023-12-07 03:50:11.394170,31,purchase,32,Wallet,1,Credit Card
+232,2023-12-07 03:50:11.394170,32,purchase,43,Dumbbells,4,Credit Card
+233,2023-12-07 03:50:11.394170,33,purchase,49,Camping Tent,1,PayPal
+234,2023-12-07 03:50:11.394170,34,purchase,22,Backpack,4,PayPal
+235,2023-12-07 03:50:11.394170,35,purchase,5,Television,2,Credit Card
+236,2023-12-07 03:50:11.394170,36,purchase,21,Running Shoes,1,Credit Card
+237,2023-12-07 03:50:11.394170,37,purchase,40,Curtains,2,Debit Card
+238,2023-12-07 03:50:11.394170,38,purchase,4,Camera,2,PayPal
+239,2023-12-07 03:50:11.394170,39,purchase,23,Guitar,1,Credit Card
+240,2023-12-07 03:50:11.394170,40,purchase,31,Handbag,1,Debit Card
+241,2023-12-07 03:50:11.394170,41,purchase,49,Camping Tent,4,Credit Card
+242,2023-12-07 03:50:11.394170,42,purchase,5,Television,1,Credit Card
+243,2023-12-07 03:50:11.394170,43,purchase,31,Handbag,2,Credit Card
+244,2023-12-07 03:50:11.394170,44,purchase,24,Fitness Tracker,3,Credit Card
+245,2023-12-07 03:50:11.394170,45,purchase,8,Sneakers,2,PayPal
+246,2023-12-07 03:50:11.394170,46,purchase,39,Pillow,4,Credit Card
+247,2023-12-07 03:50:11.394170,47,purchase,14,Pen,2,Debit Card
+248,2023-12-07 03:50:11.394170,48,purchase,21,Running Shoes,3,Credit Card
+249,2023-12-07 03:50:11.394170,49,purchase,14,Pen,2,PayPal
+250,2023-12-07 03:50:11.394170,50,purchase,8,Sneakers,3,Debit Card
+251,2023-12-07 03:50:11.394170,51,purchase,31,Handbag,4,PayPal
+252,2023-12-07 03:50:11.394170,52,purchase,15,Art Supplies,4,Credit Card
+253,2023-12-07 03:50:11.394170,53,purchase,44,Candles,1,PayPal
+254,2023-12-07 03:50:11.394170,54,purchase,27,Sunglasses,3,PayPal
+255,2023-12-07 03:50:11.394170,55,purchase,11,Book,1,PayPal
+256,2023-12-07 03:50:11.394170,56,purchase,49,Camping Tent,2,Debit Card
+257,2023-12-07 03:50:11.394170,57,purchase,38,Bed Sheets,2,Credit Card
+258,2023-12-07 03:50:11.394170,58,purchase,16,Refrigerator,3,PayPal
+259,2023-12-07 03:50:11.394170,59,purchase,15,Art Supplies,4,Debit Card
+260,2023-12-07 03:50:11.394170,60,purchase,2,Smartphone,3,Debit Card
+261,2023-12-07 03:50:11.394170,61,purchase,28,Water Bottle,3,PayPal
+262,2023-12-07 03:50:11.394170,62,purchase,4,Camera,4,PayPal
+263,2023-12-07 03:50:11.394170,63,purchase,41,Printed Books,2,Credit Card
+264,2023-12-07 03:50:11.394170,64,purchase,10,Jacket,2,Debit Card
+265,2023-12-07 03:50:11.394170,65,purchase,30,Plant,1,PayPal
+266,2023-12-07 03:50:11.394170,66,purchase,4,Camera,4,Debit Card
+267,2023-12-07 03:50:11.394170,67,purchase,43,Dumbbells,1,Debit Card
+268,2023-12-07 03:50:11.394170,68,purchase,48,Hiking Boots,1,PayPal
+269,2023-12-07 03:50:11.394170,69,purchase,2,Smartphone,2,PayPal
+270,2023-12-07 03:50:11.394170,70,purchase,47,Cushions,4,Debit Card
+271,2023-12-07 03:50:11.394170,71,purchase,15,Art Supplies,4,Debit Card
+272,2023-12-07 03:50:11.394170,72,purchase,50,Sleeping Bag,2,Credit Card
+273,2023-12-07 03:50:11.394170,73,purchase,34,Watch,3,Credit Card
+274,2023-12-07 03:50:11.394170,74,purchase,5,Television,4,Credit Card
+275,2023-12-07 03:50:11.394170,75,purchase,7,Jeans,1,Credit Card
+276,2023-12-07 03:50:11.394170,76,purchase,15,Art Supplies,4,PayPal
+277,2023-12-07 03:50:11.394170,77,purchase,3,Headphones,2,Debit Card
+278,2023-12-07 03:50:11.394170,78,purchase,30,Plant,4,Credit Card
+279,2023-12-07 03:50:11.394170,79,purchase,18,Blender,1,Credit Card
+280,2023-12-07 03:50:11.394170,80,purchase,50,Sleeping Bag,3,Debit Card
+281,2023-12-07 03:50:11.394170,81,purchase,46,Sculpture,4,PayPal
+282,2023-12-07 03:50:11.394170,82,purchase,29,Yoga Mat,3,PayPal
+283,2023-12-07 03:50:11.394170,83,purchase,30,Plant,1,Credit Card
+284,2023-12-07 03:50:11.394170,84,purchase,17,Microwave,2,PayPal
+285,2023-12-07 03:50:11.394170,85,purchase,40,Curtains,4,PayPal
+286,2023-12-07 03:50:11.394170,86,purchase,46,Sculpture,1,Debit Card
+287,2023-12-07 03:50:11.394170,87,purchase,25,Desk Chair,3,Credit Card
+288,2023-12-07 03:50:11.394170,88,purchase,49,Camping Tent,2,Debit Card
+289,2023-12-07 03:50:11.394170,89,purchase,14,Pen,1,Credit Card
+290,2023-12-07 03:50:11.394170,90,purchase,19,Coffee Maker,4,Debit Card
+291,2023-12-07 03:50:11.394170,91,purchase,11,Book,2,Credit Card
+292,2023-12-07 03:50:11.394170,92,purchase,47,Cushions,4,Debit Card
+293,2023-12-07 03:50:11.394170,93,purchase,30,Plant,2,Debit Card
+294,2023-12-07 03:50:11.394170,94,purchase,28,Water Bottle,1,Credit Card
+295,2023-12-07 03:50:11.394170,95,purchase,13,Notebook,4,PayPal
+296,2023-12-07 03:50:11.394170,96,purchase,1,Laptop,2,Debit Card
+297,2023-12-07 03:50:11.394170,97,purchase,43,Dumbbells,3,Debit Card
+298,2023-12-07 03:50:11.394170,98,purchase,39,Pillow,1,Debit Card
+299,2023-12-07 03:50:11.394170,99,purchase,22,Backpack,4,PayPal
+300,2023-12-07 03:50:11.394170,100,purchase,12,E-reader,1,PayPal
